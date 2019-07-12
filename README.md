@@ -1,6 +1,8 @@
 # Math-Invaders
 A game designed for eductional purposes
 
+![alt text](https://github.com/Maj100/Math-Invaders/blob/master/asd.PNG)
+
 
 # Scope &amp; Purpose of Math Invaders
 
