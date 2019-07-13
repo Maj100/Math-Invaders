@@ -1,5 +1,8 @@
-# Math-Invaders
+# Math-Invaders 
+# Created by Maj Alshibly
 A game designed for eductional purposes
+
+
 
 ![alt text](https://github.com/Maj100/Math-Invaders/blob/master/asd.PNG)
 
