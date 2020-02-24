@@ -1,5 +1,5 @@
 # Math-Invaders 
-# Created by Maj Alshibly
+# Created by Maj A
 A game designed for eductional purposes
 
 
